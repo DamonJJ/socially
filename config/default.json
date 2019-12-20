@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://Damon:xcu1y9G4usGGO5R4@merntutorial-d4p5t.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "secret",
+	"githubId": "6110440e9ea5033bcc8c",
+	"githubSecret": "ec93a6030ab60564bdbc9230c8e33934ed4fb1dd"
+}
